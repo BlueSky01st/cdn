@@ -1,2 +1,2 @@
 # cdn
-My jsDelivr repo
+My  Hexo jsDelivr repo
