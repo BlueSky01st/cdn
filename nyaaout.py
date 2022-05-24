@@ -29,7 +29,7 @@ except:
     pass
 
 
-class nyaasi(object):
+class nyaaout(object):
     """Class used by qBittorrent to search for torrents"""
 
     url = 'https://outside.inari.site'
